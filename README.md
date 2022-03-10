@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [Erda](https://github.com/erda-project/erda)
-- 🌱 I’m currently learning K8s
+- 🌱 I’m currently learning [Kubernetes](https://github.com/kubernetes/kubernetes)
 
 <!--
 **littlejiancc/littlejiancc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
