@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Erda
+- 🔭 I’m currently working on [Erda](https://github.com/erda-project/erda)
 - 🌱 I’m currently learning K8s
 
 <!--
