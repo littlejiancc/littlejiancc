@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [Erda](https://github.com/erda-project/erda)
 - 🌱 I’m currently learning [Kubernetes](https://github.com/kubernetes/kubernetes)
 
 <!--
