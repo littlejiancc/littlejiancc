@@ -1,5 +1,5 @@
 ### Hi there 👋
-Just pass the ⚽️ to Messi
+Just pass the ⚽️ to Lionel Messi
 - 🌱 I’m currently learning [Kubernetes](https://github.com/kubernetes/kubernetes)
 
 <!--
